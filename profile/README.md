@@ -1,12 +1,5 @@
-## Hi there 👋
+ # PocketMine Plugins by antbag on Poggit 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Plugins | State | API | Downloads | Downloads Total |
+| :-----: | :---: | :-: | :-------------: | :-------: |
+| [ChatGames](https://github.com/antbag-pm-pl/ChatGames) | [![State](https://poggit.pmmp.io/shield.state/ChatGames)](https://poggit.pmmp.io/p/ChatGames) | [![API](https://poggit.pmmp.io/shield.api/ChatGames)](https://poggit.pmmp.io/p/ChatGames) | [![Downloads](https://poggit.pmmp.io/shield.dl/ChatGames)](https://poggit.pmmp.io/p/ChatGames) | [![Downloads Total](https://poggit.pmmp.io/shield.dl.total/ChatGames)](https://poggit.pmmp.io/p/ChatGames) |
